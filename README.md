@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .DESIGN one-word domains still available to buy.
 
-This dataset contains 3,510 .DESIGN one word domains with availability, attractiveness and demand scores.
+This dataset contains 3,506 .DESIGN one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.DESIGN one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=design-oneword-domains&utm_content=description.top) (3,507) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -21,7 +21,7 @@ If you want to search & filters the complete database of [.DESIGN one word domai
 
 | Domain            | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | ----------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaron.design      | available | 88       | 32%    | 5      |           |         |         |
+| aaron.design      | premium   | 88       | 32%    | 5      |           |         |         |
 | abactinal.design  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.design      | available | 43       | 2%     | 5      |           |         |         |
 | abashed.design    | available | 60       | 2%     | 7      |           |         |         |
@@ -42,7 +42,7 @@ If you want to search & filters the complete database of [.DESIGN one word domai
 | abhorrent.design  | available | 54       | 3%     | 9      |           |         |         |
 | abiding.design    | available | 106      | 5%     | 7      |           |         |         |
 | abient.design     | available | 54       | 1%     | 6      |           |         |         |
-| ability.design    | available | 92       | 18%    | 7      |           |         |         |
+| ability.design    | premium   | 92       | 18%    | 7      |           |         |         |
 | abit.design       | available | 66       | 16%    | 5      |           |         |         |
 | abject.design     | available | 94       | 8%     | 6      |           |         |         |
 | abkhas.design     | available | 68       | 1%     | 6      |           |         |         |
