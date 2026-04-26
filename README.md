@@ -1,22 +1,22 @@
-# Available .DESIGN One-Word Domains (7,281)
+# Available .DESIGN One-Word Domains (9,402)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-7%2C284%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-7%2C281%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C402%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .design one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .design one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **9,402 domains** on the canonical page below.
 
-**Public extract:** 7,284 rows · **Live catalog:** 7,281 domains
+**Public extract:** 1,000 rows · **Live catalog:** 9,402 domains
 
-**Last updated:** 2026-04-14  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/design`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .DESIGN one-word domai
 
 ### Files
 
-- `design.csv` — public CSV extract (7,284 rows)
-- `design.json` — public JSON extract (7,284 rows)
+- `design.csv` — public CSV extract (1,000 rows)
+- `design.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
-| prayer.design     | available | $59.98    | —             | 78             | 22     | 6      | namecheap                                    |
-| risk.design       | resell    | $59.98    | —             | 62             | 38     | 4      | Dynadot Inc                                  |
-| easy.design       | premium   | $2,500    | $2,500        | 128            | 62     | 4      | name.com                                     |
-| wealthy.design    | available | $59.98    | —             | 78             | 22     | 7      | namecheap                                    |
-| release.design    | resell    | $59.98    | —             | 98             | 25     | 7      | Dynadot Inc                                  |
-| ace.design        | premium   | $812.50   | $812.50       | 88             | 57     | 3      | name.com                                     |
-| television.design | available | $59.98    | —             | 104            | 21     | 10     | namecheap                                    |
-| checkout.design   | resell    | —         | —             | 68             | 79     | 9      | Dynadot Inc                                  |
-| zero.design       | premium   | $125      | $125          | 112            | 53     | 4      | name.com                                     |
-| shorts.design     | available | $59.98    | —             | 74             | 21     | 6      | namecheap                                    |
-| loop.design       | resell    | —         | —             | 72             | 77     | 4      | Porkbun                                      |
-| true.design       | premium   | $812.50   | $812.50       | 86             | 52     | 4      | name.com                                     |
-| treat.design      | available | $59.98    | —             | 72             | 20     | 5      | namecheap                                    |
-| get.design        | resell    | —         | —             | 88             | 69     | 3      | Spaceship, Inc.                              |
-| game.design       | premium   | $2,500    | $2,500        | 120            | 50     | 4      | name.com                                     |
-| diligent.design   | available | $59.98    | —             | 68             | 20     | 8      | namecheap                                    |
-| fleet.design      | resell    | —         | —             | 62             | 69     | 5      | Dynadot Inc                                  |
-| air.design        | premium   | $845      | $845          | 84             | 49     | 3      | namecheap                                    |
-| mingle.design     | available | $59.98    | —             | 62             | 20     | 6      | namecheap                                    |
-| solo.design       | resell    | —         | —             | 116            | 68     | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
+| domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
+| -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
+| regions.design       | available | $19.99    | —             | 64             | 59     | 7      | name.com                                                |
+| cars.design          | resell    | —         | —             | 66             | 47     | 4      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
+| popup.design         | premium   | $312.50   | —             | 84             | 29     | 6      | name.com                                                |
+| farmers.design       | available | $19.99    | —             | 54             | 59     | 7      | name.com                                                |
+| traders.design       | resell    | —         | —             | 60             | 26     | 7      | Dynadot Inc                                             |
+| photos.design        | premium   | $312.50   | —             | 54             | 28     | 6      | name.com                                                |
+| keepthechange.design | available | $19.99    | —             | 46             | 59     | 15     | name.com                                                |
+| results.design       | resell    | —         | —             | 59             | 22     | 7      | Dynadot Inc                                             |
+| has.design           | premium   | $312.50   | —             | 60             | 26     | 3      | name.com                                                |
+| trades.design        | available | $19.99    | —             | 71             | 26     | 6      | name.com                                                |
+| enough.design        | resell    | —         | —             | 90             | 21     | 6      | GoDaddy.com, LLC                                        |
+| pls.design           | premium   | $125      | —             | 60             | 23     | 3      | name.com                                                |
+| comics.design        | available | $19.99    | —             | 68             | 24     | 6      | name.com                                                |
+| faces.design         | resell    | —         | —             | 60             | 21     | 5      | Dynadot Inc                                             |
+| CapeCod.design       | premium   | $350      | $350          | 78             | 22     | 8      | namecheap                                               |
+| loans.design         | available | $19.99    | —             | 58             | 24     | 5      | name.com                                                |
+| workers.design       | resell    | —         | —             | 60             | 20     | 7      | Dynadot Inc                                             |
+| vitamins.design      | premium   | $116      | $116          | 60             | 17     | 8      | namesilo                                                |
+| boats.design         | available | $19.99    | —             | 52             | 24     | 5      | name.com                                                |
+| clients.design       | resell    | —         | —             | 58             | 20     | 7      | Dynadot Inc                                             |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 7,284-row public sample | 7,281 live domains                               |
+| 1,000-row public sample | 9,402 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DESIGN One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DESIGN One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
