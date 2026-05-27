@@ -1,10 +1,10 @@
-# Available .DESIGN One-Word Domains (9,985)
+# Available .DESIGN One-Word Domains (9,986)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C985%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C986%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .design one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **9,985 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **9,986 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 9,985 domains · **Median ask:** $59.61 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 9,986 domains · **Median ask:** $59.61 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/design`  
 **Best for:** founders, investors, studios
 
@@ -71,19 +71,19 @@ print(df.head())
 | rewards.design  | resell    | —         | —             | 62             | 30     | 7      | Dynadot Inc                                             |
 | photos.design   | premium   | $312.50   | —             | 54             | 28     | 6      | name.com                                                |
 | trades.design   | available | $19.99    | —             | 71             | 26     | 6      | name.com                                                |
-| traders.design  | resell    | —         | —             | 60             | 26     | 7      | Dynadot Inc                                             |
+| traders.design  | resell    | —         | —             | 60             | 25     | 7      | Dynadot Inc                                             |
 | has.design      | premium   | $312.50   | —             | 60             | 26     | 3      | name.com                                                |
 | whats.design    | available | $19.99    | —             | 58             | 24     | 5      | name.com                                                |
 | results.design  | resell    | —         | —             | 59             | 22     | 7      | Dynadot Inc                                             |
 | toys.design     | premium   | $302.50   | $302.50       | 60             | 24     | 4      | namesilo                                                |
 | boats.design    | available | $19.99    | —             | 52             | 24     | 5      | name.com                                                |
-| faces.design    | resell    | —         | —             | 60             | 21     | 5      | Dynadot Inc                                             |
+| webs.design     | resell    | —         | —             | 56             | 21     | 4      | eDomains LLC                                            |
 | pls.design      | premium   | $125      | —             | 60             | 23     | 3      | name.com                                                |
 | veterans.design | available | $19.99    | —             | 56             | 23     | 8      | name.com                                                |
-| webs.design     | resell    | —         | —             | 56             | 21     | 4      | eDomains LLC                                            |
+| enough.design   | resell    | —         | —             | 90             | 20     | 6      | GoDaddy.com, LLC                                        |
 | pros.design     | premium   | $116      | $116          | 53             | 23     | 4      | namesilo                                                |
 | herbs.design    | available | $19.99    | —             | 62             | 22     | 5      | name.com                                                |
-| enough.design   | resell    | —         | —             | 90             | 20     | 6      | GoDaddy.com, LLC                                        |
+| faces.design    | resell    | —         | —             | 60             | 20     | 5      | Dynadot Inc                                             |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 9,985 live domains                         |
+| 1,000-row public sample | 9,986 live domains                         |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DESIGN One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DESIGN One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
