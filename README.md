@@ -1,10 +1,10 @@
-# Available .DESIGN One-Word Domains (9,986)
+# Available .DESIGN One-Word Domains (9,987)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C986%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C987%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .design one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **9,986 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **9,987 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 9,986 domains · **Median ask:** $59.61 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 9,987 domains · **Median ask:** $92.29 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/design`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/design`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .DESIGN one-word domai
 
 ### Files
 
-- `design.csv` — public CSV extract (1,000 rows)
-- `design.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `design.csv`, public CSV extract (1,000 rows)
+- `design.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
-| regions.design  | available | $19.99    | —             | 64             | 59     | 7      | name.com                                                |
-| cars.design     | resell    | —         | —             | 66             | 47     | 4      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
-| popup.design    | premium   | $312.50   | —             | 84             | 28     | 6      | name.com                                                |
-| farmers.design  | available | $19.99    | —             | 54             | 59     | 7      | name.com                                                |
-| rewards.design  | resell    | —         | —             | 62             | 30     | 7      | Dynadot Inc                                             |
-| photos.design   | premium   | $312.50   | —             | 54             | 28     | 6      | name.com                                                |
-| trades.design   | available | $19.99    | —             | 71             | 26     | 6      | name.com                                                |
-| traders.design  | resell    | —         | —             | 60             | 25     | 7      | Dynadot Inc                                             |
-| has.design      | premium   | $312.50   | —             | 60             | 26     | 3      | name.com                                                |
-| whats.design    | available | $19.99    | —             | 58             | 24     | 5      | name.com                                                |
-| results.design  | resell    | —         | —             | 59             | 22     | 7      | Dynadot Inc                                             |
-| toys.design     | premium   | $302.50   | $302.50       | 60             | 24     | 4      | namesilo                                                |
-| boats.design    | available | $19.99    | —             | 52             | 24     | 5      | name.com                                                |
-| webs.design     | resell    | —         | —             | 56             | 21     | 4      | eDomains LLC                                            |
-| pls.design      | premium   | $125      | —             | 60             | 23     | 3      | name.com                                                |
-| veterans.design | available | $19.99    | —             | 56             | 23     | 8      | name.com                                                |
-| enough.design   | resell    | —         | —             | 90             | 20     | 6      | GoDaddy.com, LLC                                        |
-| pros.design     | premium   | $116      | $116          | 53             | 23     | 4      | namesilo                                                |
-| herbs.design    | available | $19.99    | —             | 62             | 22     | 5      | name.com                                                |
-| faces.design    | resell    | —         | —             | 60             | 20     | 5      | Dynadot Inc                                             |
+| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
+| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| beg.design  | available | $19.99    | —             | medium         | low    | 3      | name.com          |
+| ate.design  | resell    | —         | —             | high           | low    | 3      | Dynadot Inc       |
+| ago.design  | premium   | $312.50   | $312.50       | medium         | low    | 3      | name.com          |
+| tks.design  | available | $19.99    | —             | high           | low    | 3      | name.com          |
+| ccc.design  | resell    | —         | —             | medium         | low    | 3      | Spaceship, Inc.   |
+| air.design  | premium   | $845      | $845          | high           | medium | 3      | namecheap         |
+| aids.design | available | $19.99    | —             | medium         | low    | 4      | name.com          |
+| get.design  | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.   |
+| Ann.design  | premium   | $302.50   | $302.50       | high           | low    | 3      | namesilo          |
+| both.design | available | $19.99    | —             | high           | low    | 4      | name.com          |
+| disk.design | resell    | —         | —             | high           | low    | 4      | Dynadot Inc       |
+| bra.design  | premium   | $302.50   | $302.50       | medium         | low    | 3      | namesilo          |
+| died.design | available | $3.99     | $58.49        | medium         | low    | 4      | namesilo          |
+| full.design | resell    | —         | —             | medium         | low    | 4      | Spaceship, Inc.   |
+| bye.design  | premium   | $302.50   | $302.50       | high           | low    | 3      | namesilo          |
+| lick.design | available | $19.99    | —             | medium         | low    | 4      | name.com          |
+| glue.design | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.   |
+| cow.design  | premium   | $116      | $116          | high           | low    | 3      | namesilo          |
+| near.design | available | $19.99    | —             | medium         | low    | 4      | name.com          |
+| gram.design | resell    | —         | —             | medium         | low    | 4      | Sav.com, LLC - 16 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 9,986 live domains                         |
+| 1,000-row public sample | 9,987 live domains                         |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of .design domains, so the main decision is not extension quality but name quality. Shorter names such as dream.design, drive.design, gym.design, and concert.design are easier to recall and usually easier to position than longer constructions like jollygoodshow.design. When comparing these domains, focus on clarity, memorability, and how naturally the word fits the .design ending. Also check whether the wording feels broad and ownable or overly narrow, awkward, or potentially tied to an existing brand. Median ask across this set is 59.64, which helps frame budget expectations for buyers screening a wide range of naming quality.
+This selection covers 9,987 .design domain names, from short brandable words to descriptive compound names such as "weddingcake.design," "takeabreak.design," and "criteria.design." Pricing across the set centers on a median ask near $92, giving a practical baseline for comparing options. Names range from tight one-word picks to longer, event- or lifestyle-themed combinations, suited to design, creative, and product-focused brands.
 
-- All domains in this selection use the .design extension
-- Short single-word names are usually easier to remember
-- Median ask across the set is 59.64
-- Check wording for clarity, fit, and trademark risk
+- 9,987 .design domain names tracked, updated daily
+- Median asking price near $92 across this selection
+- Mix of brandable one-word and compound .design names
+- Spans lifestyle, tech, and creative-sector name styles
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DESIGN One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DESIGN One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
