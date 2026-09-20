@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .design one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 23,684 domains · **Median ask:** $45.95 · **High-demand under $2,500:** 10
 
-**Last updated:** 2026-09-18
+**Last updated:** 2026-09-20
 **Canonical page:** `https://unique.domains/domains/tld/design`
 **Best for:** founders, investors, studios
 
@@ -69,10 +69,10 @@ print(df.head())
 | ago.design  | premium   | $312.50   | $312.50       | medium         | low    | 3      | name.com          |
 | tks.design  | available | $19.99    | —             | high           | low    | 3      | name.com          |
 | ccc.design  | resell    | —         | —             | medium         | low    | 3      | Spaceship, Inc.   |
-| air.design  | premium   | $845      | $845          | high           | medium | 3      | namecheap         |
+| air.design  | premium   | $832      | $832          | medium         | low    | 3      | namesilo          |
 | ague.design | available | $3.98     | $68.98        | low            | low    | 4      | namecheap         |
 | get.design  | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.   |
-| Ann.design  | premium   | $302.50   | $302.50       | high           | low    | 3      | namesilo          |
+| ann.design  | premium   | $302.50   | $302.50       | high           | low    | 3      | namesilo          |
 | aids.design | available | $19.99    | —             | medium         | low    | 4      | name.com          |
 | disk.design | resell    | —         | —             | high           | low    | 4      | Dynadot Inc       |
 | bra.design  | premium   | $302.50   | $302.50       | medium         | low    | 3      | namesilo          |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DESIGN One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DESIGN One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
