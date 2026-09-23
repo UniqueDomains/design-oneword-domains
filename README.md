@@ -1,10 +1,10 @@
-# Available .DESIGN One-Word Domains (25,025)
+# Available .DESIGN One-Word Domains (27,378)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-25%2C025%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-27%2C378%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .design one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **25,025 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **27,378 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 25,025 domains · **Median ask:** $47.08 · **High-demand under $2,500:** 10
+**Public extract:** 1,000 rows · **Live catalog:** 27,378 domains · **Median ask:** $49.31 · **High-demand under $2,500:** 9
 
-**Last updated:** 2026-09-21
+**Last updated:** 2026-09-23
 **Canonical page:** `https://unique.domains/domains/tld/design`
 **Best for:** founders, investors, studios
 
@@ -65,25 +65,25 @@ print(df.head())
 | domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
 | -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
 | picture.design | premium   | $302.50   | $302.50       | high           | low    | 7      | namesilo        |
+| pure.design    | premium   | $2,500    | —             | high           | medium | 4      | name.com        |
 | beg.design     | available | $19.99    | —             | medium         | low    | 3      | name.com        |
-| ate.design     | resell    | —         | —             | high           | low    | 3      | Dynadot Inc     |
-| ago.design     | premium   | $312.50   | $312.50       | medium         | low    | 3      | name.com        |
+| astute.design  | resell    | $19.99    | —             | low            | low    | 6      | name.com        |
+| ago.design     | premium   | $302.50   | $302.50       | low            | low    | 3      | namesilo        |
 | tks.design     | available | $19.99    | —             | high           | low    | 3      | name.com        |
-| ccc.design     | resell    | —         | —             | medium         | low    | 3      | Spaceship, Inc. |
+| silver.design  | resell    | $325      | $325          | medium         | low    | 6      | namecheap       |
 | air.design     | premium   | $832      | $832          | medium         | low    | 3      | namesilo        |
 | ague.design    | available | $3.98     | $68.98        | low            | low    | 4      | namecheap       |
-| get.design     | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc. |
+| ate.design     | resell    | —         | —             | high           | low    | 3      | Dynadot Inc     |
 | ann.design     | premium   | $302.50   | $302.50       | high           | low    | 3      | namesilo        |
 | aids.design    | available | $19.99    | —             | medium         | low    | 4      | name.com        |
-| disk.design    | resell    | —         | —             | high           | low    | 4      | Dynadot Inc     |
+| ccc.design     | resell    | —         | —             | medium         | low    | 3      | Spaceship, Inc. |
 | bra.design     | premium   | $302.50   | $302.50       | medium         | low    | 3      | namesilo        |
 | arum.design    | available | $12.98    | $68.98        | low            | low    | 4      | namecheap       |
-| full.design    | resell    | —         | —             | medium         | low    | 4      | Spaceship, Inc. |
+| get.design     | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc. |
 | bye.design     | premium   | $302.50   | $302.50       | high           | low    | 3      | namesilo        |
 | awol.design    | available | $12.98    | $68.98        | low            | low    | 4      | namecheap       |
-| glue.design    | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc. |
+| disk.design    | resell    | —         | —             | high           | low    | 4      | Dynadot Inc     |
 | cow.design     | premium   | $116      | $116          | high           | low    | 3      | namesilo        |
-| both.design    | available | $19.99    | —             | high           | low    | 4      | name.com        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 25,025 live domains                        |
+| 1,000-row public sample | 27,378 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 10 high-demand names under $2,500          |
+| Basic exported fields   | 9 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .DESIGN One-Word Domains*. Version 2026-09-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .DESIGN One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
